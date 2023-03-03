@@ -7,17 +7,6 @@
 ![](https://img.shields.io/github/license/Candida18/Online-Voting-System?style=for-the-badge) &emsp; &emsp;
 
 <br>
-
-## ABSTRACT
-<p align="justify">“ ONLINE VOTING SYSTEM ” is an online voting technique. In this system, authorized voters can give his\her vote online without going to any physical polling station. There is a database which is maintained in which all the names of voters with complete information is stored.</p>
-
-<p align="justify">In “ ONLINE VOTING SYSTEM ” a voter can use his\her voting right online without any difficulty. He\She has to be registered first for him/her to vote. Registration is mainly done by the system administrator for security reasons. The system Administrator registers the voters on a special site of the system visited by him/her only by simply filling a registration form to register voter. Citizens seeking registration are expected to contact the system administrator to submit their details and get their registration done.</p>
-
-<p align="justify">After registration, the voter is assigned a secret Voter ID with which he/she can use to log into the system and enjoy services provided by the system such as voting. If invalid/wrong details are submitted, then the citizen is not registered to vote. </p>
-
-
-<br>
-
 ## SOFTWARE REQUIREMENTS
 <ul type="square">
   <li> <b> Operating System : </b> Any version of Windows NT family (4.0 &above) </li>
@@ -97,11 +86,11 @@ DOWNLOAD "Online Voting Management System Project"
 
 ![dashboard](https://user-images.githubusercontent.com/72904996/121797542-7cdf9c00-cc3e-11eb-9ede-e6f2a113bb7e.png)
 
-![after vote](https://user-images.githubusercontent.com/72904996/121797560-94b72000-cc3e-11eb-9b55-8470e5e52dfb.png)
+![after vote](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(225).png)
 
-![ballot position](https://user-images.githubusercontent.com/72904996/121797563-9aad0100-cc3e-11eb-9afa-eda12498381e.png)
+![ballot position](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(226).png)
 
-![add candidate](https://user-images.githubusercontent.com/72904996/121797598-d3e57100-cc3e-11eb-9a36-0b3bdaae2d25.png)
+![add candidate](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(227).png)
 
 ![candidate list](https://user-images.githubusercontent.com/72904996/121797568-a4ceff80-cc3e-11eb-80c6-041d8129a8c5.png)
 
