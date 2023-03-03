@@ -84,7 +84,7 @@ DOWNLOAD "Online Voting Management System Project"
 
 ![voter login](https://user-images.githubusercontent.com/72904996/121797592-c29c6480-cc3e-11eb-99e1-ed2268593f54.png)
 
-![dashboard](https://user-images.githubusercontent.com/72904996/121797542-7cdf9c00-cc3e-11eb-9ede-e6f2a113bb7e.png)
+![dashboard](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(230).png)
 
 ![after vote](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(225).png)
 
@@ -92,14 +92,12 @@ DOWNLOAD "Online Voting Management System Project"
 
 ![add candidate](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(227).png)
 
-![candidate list](https://user-images.githubusercontent.com/72904996/121797568-a4ceff80-cc3e-11eb-80c6-041d8129a8c5.png)
+![candidate list](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(226).png)
 
-![positions](https://user-images.githubusercontent.com/72904996/121797573-aa2c4a00-cc3e-11eb-909b-96c8daf227e2.png)
+![positions](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(232).png)
 
-![voters list](https://user-images.githubusercontent.com/72904996/121797580-b2848500-cc3e-11eb-8f0a-c543844850a5.png)
+![voters list](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(225).png)
+)
+![voter ballot](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(231).png)
 
-![votes](https://user-images.githubusercontent.com/72904996/121797583-b7e1cf80-cc3e-11eb-9eaa-c54dbdb58abd.png)
-
-![voter ballot](https://user-images.githubusercontent.com/72904996/121797601-dba51580-cc3e-11eb-92c4-8dee66f4cf57.png)
-
-![vote submitted](https://user-images.githubusercontent.com/72904996/121797604-e364ba00-cc3e-11eb-80e3-94370306b0e9.png)
+![vote submitted](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(233).png)
