@@ -88,7 +88,7 @@ DOWNLOAD "Online Voting Management System Project"
 
 ![after vote](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(225).png)
 
-![ballot position](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(226).png)
+<!-- ![ballot position](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(226).png) -->
 
 ![add candidate](https://github.com/kothapalliyamini91/Online-E-Voting-System/blob/master/Screenshot%20(227).png)
 
